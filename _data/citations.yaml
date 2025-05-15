@@ -1,174 +1,419 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1002/adfm.202100293
+  title: "Revealing Nanomechanical Domains and Their Transient Behavior in Mixed\u2010\
+    Halide Perovskite Films"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ioanna Mela
+  - Chetan Poudel
+  - Miguel Anaya
+  - "G\xE9raud Delport"
+  - Kyle Frohna
+  - Stuart Macpherson
+  - Tiarnan A. S. Doherty
+  - Anna Scheeder
+  - Samuel D. Stranks
+  - Clemens F. Kaminski
+  publisher: Advanced Functional Materials
+  date: '2021-03-31'
+  link: https://doi.org/g9j7n5
+  orcid: 0000-0002-8512-9238
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: pmid:33386842
+  title: "Observation of an \u03B1-synuclein liquid droplet state and its maturation\
+    \ into Lewy body-like assemblies."
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Maarten C Hardenberg
+  - Tessa Sinnige
+  - Sam Casford
+  - Samuel T Dada
+  - Chetan Poudel
+  - Elizabeth A Robinson
+  - Monika Fuxreiter
+  - Clemens F Kaminksi
+  - Gabriele S Kaminski Schierle
+  - Ellen A A Nollen
+  - Christopher M Dobson
+  - Michele Vendruscolo
+  publisher: Journal of molecular cell biology
+  date: '2021-08-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33386842
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2021.108690
+  title: "CDK2 limits the highly energetic secretory program of mature \u03B2 cells\
+    \ by restricting PEP cycle-dependent KATP channel closure"
+  authors:
+  - Sophia M. Sdao
+  - Thuong Ho
+  - Chetan Poudel
+  - Hannah R. Foster
+  - Elizabeth R. De Leon
+  - Melissa T. Adams
+  - Ji-Hyeon Lee
+  - Barak Blum
+  - Sushil G. Rane
+  - Matthew J. Merrins
+  publisher: Cell Reports
+  date: '2021-01-01'
+  link: https://doi.org/g9j7n8
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.nanolett.0c03672
+  title: Guided Assembly and Patterning of Intrinsically Fluorescent Amyloid Fibers
+    with Long-Range Order
+  authors:
+  - Lisa Hecker
+  - Wenyu Wang
+  - Ioanna Mela
+  - Saeed Fathi
+  - Chetan Poudel
+  - Giancarlo Soavi
+  - Yan Yan Shery Huang
+  - Clemens F. Kaminski
+  publisher: Nano Letters
+  date: '2021-01-15'
+  link: https://doi.org/g9j7n9
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmet.2020.10.007
+  title: Pyruvate Kinase Controls Signal Strength in the Insulin Secretory Pathway
+  authors:
+  - Sophie L. Lewandowski
+  - Rebecca L. Cardone
+  - Hannah R. Foster
+  - Thuong Ho
+  - Evgeniy Potapenko
+  - Chetan Poudel
+  - Halena R. VanDeusen
+  - Sophia M. Sdao
+  - Tiago C. Alves
+  - Xiaojian Zhao
+  - Megan E. Capozzi
+  - Arnaldo H. de Souza
+  - Ishrat Jahan
+  - Craig J. Thomas
+  - Craig S. Nunemaker
+  - Dawn Belt Davis
+  - Jonathan E. Campbell
+  - Richard G. Kibbey
+  - Matthew J. Merrins
+  publisher: Cell Metabolism
+  date: '2020-11-01'
+  link: https://doi.org/ghh8h5
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2050-6120/ab7364
+  title: High-throughput, multi-parametric, and correlative fluorescence lifetime
+    imaging
+  authors:
+  - Chetan Poudel
+  - Ioanna Mela
+  - Clemens F Kaminski
+  publisher: Methods and Applications in Fluorescence
+  date: '2020-02-19'
+  link: https://doi.org/gnfzk3
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/osac.3.000031
+  title: Silica-based photonic crystal fiber for the generation of broad band UV radiation
+  authors:
+  - S. Perret
+  - C. Poudel
+  - A. N. Ghosh
+  - G. Fanjoux
+  - L. Provino
+  - T. Taunay
+  - A. Monteville
+  - D. Landais
+  - C. F. Kaminski
+  - J. M. Dudley
+  - T. Sylvestre
+  publisher: OSA Continuum
+  date: '2019-12-20'
+  link: https://doi.org/g9j7pc
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chempr.2019.08.015
+  title: A Highly Porous Metal-Organic Framework System to Deliver Payloads for Gene
+    Knockdown
+  authors:
+  - Michelle H. Teplensky
+  - Marcus Fantham
+  - Chetan Poudel
+  - Colin Hockings
+  - Meng Lu
+  - Alina Guna
+  - Marta Aragones-Anglada
+  - Peyman Z. Moghadam
+  - Peng Li
+  - Omar K. Farha
+  - "Sandra Bernaldo de Quir\xF3s Fern\xE1ndez"
+  - Frances M. Richards
+  - Duncan I. Jodrell
+  - Gabriele Kaminski Schierle
+  - Clemens F. Kaminski
+  - David Fairen-Jimenez
+  publisher: Chem
+  date: '2019-11-01'
+  link: https://doi.org/g9j7pd
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acschembio.9b00354
+  title: "Fast Fluorescence Lifetime Imaging Reveals the Aggregation Processes of\
+    \ \u03B1-Synuclein and Polyglutamine in Aging <i>Caenorhabditis elegans</i>"
+  authors:
+  - Romain F. Laine
+  - Tessa Sinnige
+  - Kai Yu Ma
+  - Amanda J. Haack
+  - Chetan Poudel
+  - Peter Gaida
+  - Nathan Curry
+  - Michele Perni
+  - Ellen A.A. Nollen
+  - Christopher M. Dobson
+  - Michele Vendruscolo
+  - Gabriele S. Kaminski Schierle
+  - Clemens F. Kaminski
+  publisher: ACS Chemical Biology
+  date: '2019-06-17'
+  link: https://doi.org/ggfbmt
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.43059
+  title: Intrinsically aggregation-prone proteins form amyloid-like aggregates and
+    contribute to tissue aging in Caenorhabditis elegans
+  authors:
+  - Chaolie Huang
+  - Sara Wagner-Valladolid
+  - Amberley D Stephens
+  - Raimund Jung
+  - Chetan Poudel
+  - Tessa Sinnige
+  - Marie C Lechler
+  - "Nicole Schl\xF6rit"
+  - Meng Lu
+  - Romain F Laine
+  - Claire H Michel
+  - Michele Vendruscolo
+  - Clemens F Kaminski
+  - Gabriele S Kaminski Schierle
+  - Della C David
+  publisher: eLife
+  date: '2019-05-03'
+  link: https://doi.org/ggh6vw
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/JOSAB.36.00A139
+  title: Supercontinuum radiation in fluorescence microscopy and biomedical imaging
+    applications
+  authors:
+  - Chetan Poudel
+  - Clemens F. Kaminski
+  publisher: Journal of the Optical Society of America B
+  date: '2019-01-25'
+  link: https://doi.org/gh4qpw
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/db18-2140-p
+  title: "Cdk2-Dependent Activation of \xDF-Cell Metabolism Is Eclipsed by Its Inhibitory\
+    \ Effect on Plasma Membrane Excitability and Insulin Secretion"
+  authors:
+  - SOPHIA SDAO
+  - CHETAN POUDEL
+  - KARA M. MORTENSEN
+  - MATTHEW J. MERRINS
+  publisher: Diabetes
+  date: '2018-07-01'
+  link: https://doi.org/g9j7pg
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpj.2017.11.3260
+  title: Simultaneous AFM and FLIM Imaging with a SiR-DNA Probe Reveals Structural
+    Changes during DNA Condensation in Live Cell Nuclei
+  authors:
+  - Chetan Poudel
+  - Nathan Curry
+  - Kevin A. Feeney
+  - Gabriele S. Kaminski Schierle
+  - Clemens F. Kaminski
+  publisher: Biophysical Journal
+  date: '2018-02-01'
+  link: https://doi.org/g9j7ph
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1113/JP275075
+  title: "Restoration of metabolic health by decreased consumption of branched\u2010\
+    chain amino acids"
+  authors:
+  - Nicole E. Cummings
+  - Elizabeth M. Williams
+  - Ildiko Kasza
+  - Elizabeth N. Konon
+  - Michael D. Schaid
+  - Brian A. Schmidt
+  - Chetan Poudel
+  - Dawn S. Sherman
+  - Deyang Yu
+  - Sebastian I. Arriola Apelo
+  - Sara E. Cottrell
+  - Gabriella Geiger
+  - Macy E. Barnes
+  - Jaclyn A. Wisinski
+  - Rachel J. Fenske
+  - Kristina A. Matkowskyj
+  - Michelle E. Kimple
+  - Caroline M. Alexander
+  - Matthew J. Merrins
+  - Dudley W. Lamming
+  publisher: The Journal of Physiology
+  date: '2017-12-27'
+  link: https://doi.org/ghng75
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpj.2015.11.2601
+  title: NAD(P)H-FLIM and FRET Imaging of Pancreatic Islet Oscillations Reveals Novel
+    Activators of Mitochondrial Respiratory Complex I in the Setting of Obesity
+  authors:
+  - Trillian Gregg
+  - Chetan Poudel
+  - Rush Dhillon
+  - Brian A. Schmidt
+  - John M. Denu
+  - Kevin W. Eliceiri
+  - Matthew J. Merrins
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/g9j7pk
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpj.2015.12.029
+  title: "Phase Analysis of Metabolic Oscillations and Membrane Potential in Pancreatic\
+    \ Islet \u03B2 -Cells"
+  authors:
+  - Matthew J. Merrins
+  - Chetan Poudel
+  - Joseph P. McKenna
+  - Joon Ha
+  - Arthur Sherman
+  - Richard Bertram
+  - Leslie S. Satin
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/f78c8c
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bpj.2015.11.810
+  title: "TUDCA Rescues \u03B3-Cell Metabolic Oscillations from ER Stress, Revealed\
+    \ By NAD(P)H-FLIM and FRET"
+  authors:
+  - Chetan Poudel
+  - Brian A. Schmidt
+  - Quincy E. Harenda
+  - Feyza Engin
+  - Kevin W. Eliceiri
+  - Matthew J. Merrins
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/g9j7pm
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/db16-0432
+  title: "Pancreatic \u03B2-Cells From Mice Offset Age-Associated Mitochondrial Deficiency\
+    \ With Reduced KATP Channel Activity"
+  authors:
+  - Trillian Gregg
+  - Chetan Poudel
+  - Brian A. Schmidt
+  - Rashpal S. Dhillon
+  - Sophia M. Sdao
+  - Nathan A. Truchan
+  - Emma L. Baar
+  - Luis A. Fernandez
+  - John M. Denu
+  - Kevin W. Eliceiri
+  - Jeremy D. Rogers
+  - Michelle E. Kimple
+  - Dudley W. Lamming
+  - Matthew J. Merrins
+  publisher: Diabetes
+  date: '2016-06-09'
+  link: https://doi.org/f8z8p9
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmag.2013.2244577
+  title: Inverted Linear Halbach Array for Separation of Magnetic Nanoparticles
+  authors:
+  - Yumi Ijiri
+  - Chetan Poudel
+  - P. Stephen Williams
+  - Lee R. Moore
+  - Toru Orita
+  - Maciej Zborowski
+  publisher: IEEE Transactions on Magnetics
+  date: '2013-07-01'
+  link: https://doi.org/f46jd2
+  orcid: 0000-0002-8512-9238
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.02.073536
+  title: Illuminating chromatin compaction in live cells and fixed tissues using SiR-DNA
+    fluorescence lifetime
+  authors:
+  - Colin Hockings
+  - Chetan Poudel
+  - Kevin A. Feeney
+  - Clara L. Novo
+  - Mehdi S. Hamouda
+  - Ioanna Mela
+  - David Fernandez-Antoran
+  - Pedro P. Vallejo-Ramirez
+  - Peter J. Rugg-Gunn
+  - Kevin Chalut
+  - Clemens F. Kaminski
+  - Gabriele Kaminski-Schierle
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2020-05-02'
+  link: https://doi.org/gsxn6m
+  orcid: 0000-0002-8512-9238
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2020.06.08.139642
+  title: Satellite repeat transcripts modulate heterochromatin condensates and safeguard
+    chromosome stability in mouse embryonic stem cells
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Clara Lopes Novo
+  - Emily Wong
+  - Colin Hockings
+  - Chetan Poudel
+  - Eleanor Sheekey
+  - Simon Walker
+  - Gabriele S. Kaminski Schierle
+  - Geeta J. Narlikar
+  - Peter J. Rugg-Gunn
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2020-06-08'
+  link: https://doi.org/gg2cf5
+  orcid: 0000-0002-8512-9238
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +429,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +445,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
